@@ -1,2 +1,2 @@
 # onlyPlay
-### 很经典canvas demo注释版
+### 很经典canvas 撕布帘demo注释版
